@@ -49,7 +49,7 @@ LAB_SUPPORT_DIR="$SRC_DIR/e6_lab_support"
 ROS_SETUP="/opt/ros/humble/setup.bash"
 
 DOBOT_IP="192.168.5.1"
-DOBOT_TYPE="e6"
+DOBOT_TYPE="me6"
 
 
 # ---------------------------------------------------------------------------
