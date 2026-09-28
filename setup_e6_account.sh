@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -euo pipefail
+set -eo pipefail
 
 # ---------------------------------------------------------------------------
 # DOBOT E6 ROS 2 lab account setup
